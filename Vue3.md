@@ -21,7 +21,7 @@ Please pick a preset:
  ( ) E2E Testing 
  
 cd vue-three-test
-vue add next (添加vue3依赖)
+vue add vue-next (添加vue3依赖)
 
 ```
 
